@@ -1,0 +1,13 @@
+body {
+  background: #0f172a;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+  padding: 20px;
+}
+
+#saldo {
+  font-size: 40px;
+  margin: 20px;
+  color: #22c55e;
+}
